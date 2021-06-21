@@ -1,0 +1,26 @@
+{
+  "name": "node_medicamentos_api",
+  "version": "1.0.0",
+  "description": "uma pequena api de medicamentos",
+  "main": "app.js",
+  "scripts": {
+    "prod": "node app.js",
+    "dev": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/flavioc9/node_medicamentos_api.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/flavioc9/node_medicamentos_api/issues"
+  },
+  "homepage": "https://github.com/flavioc9/node_medicamentos_api#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
+}
